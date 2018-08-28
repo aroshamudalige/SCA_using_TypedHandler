@@ -1,0 +1,28 @@
+<idea-plugin>
+    <id>com.jetbrains.my-sca-tool</id>
+    <name>SCA Tool</name>
+    <vendor email="aroshamudalige1@gmail.com">Home</vendor>
+
+    <description><![CDATA[
+    A simple plugin for secure coding.
+    ]]></description>
+
+    <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+         on how to target different products -->
+    <!-- uncomment to enable plugin in all products
+    <depends>com.intellij.modules.lang</depends>
+    -->
+
+    <extensions defaultExtensionNs="com.intellij">
+        <!-- Add your extensions here -->
+    </extensions>
+
+    <actions>
+        <action id="EditorBasics.EditorIllustration"
+                class="EditorIllustration"
+                text="SCA Tool"
+                description="Illustrates how to plug an action in">
+            <add-to-group group-id="EditorPopupMenu" anchor="first"/>
+        </action>
+    </actions>
+</idea-plugin>

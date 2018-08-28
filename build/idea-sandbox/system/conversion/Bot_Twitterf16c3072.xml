@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+    <converter id="junit-to-android-junit-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\arosh\IdeaProjects\Bot_Twitter\.idea\artifacts\Bot_Twitter_jar.xml" timestamp="1526750432655" />
+    <file path="C:\Users\arosh\IdeaProjects\Bot_Twitter\.idea\compiler.xml" timestamp="1529729712248" />
+    <file path="C:\Users\arosh\IdeaProjects\Bot_Twitter\.idea\libraries\twitter4j_core_4_0_4.xml" timestamp="1526579080962" />
+    <file path="C:\Users\arosh\IdeaProjects\Bot_Twitter\.idea\misc.xml" timestamp="1529729697741" />
+    <file path="C:\Users\arosh\IdeaProjects\Bot_Twitter\.idea\modules.xml" timestamp="1526572031447" />
+    <file path="C:\Users\arosh\IdeaProjects\Bot_Twitter\.idea\vcs.xml" timestamp="1526739674804" />
+    <file path="C:\Users\arosh\IdeaProjects\Bot_Twitter\.idea\workspace.xml" timestamp="1535471046178" />
+    <file path="C:\Users\arosh\IdeaProjects\Bot_Twitter\Bot_Twitter.iml" timestamp="1529729712185" />
+  </project-files>
+</conversion>
+

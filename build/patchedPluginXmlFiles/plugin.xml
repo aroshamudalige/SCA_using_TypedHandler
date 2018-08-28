@@ -1,0 +1,19 @@
+<idea-plugin>
+  <version>1.0</version>
+  <change-notes>
+      Add change notes here.&lt;br&gt;
+      &lt;em&gt;most HTML tags may be used&lt;/em&gt;</change-notes>
+  <idea-version since-build="181.4892" until-build="181.*"/>
+  <id>com.jetbrains.my-sca-tool</id>
+  <name>SCA Tool</name>
+  <vendor email="aroshamudalige1@gmail.com">Home</vendor>
+  <description>
+    A simple plugin for secure coding.
+    </description>
+  <extensions defaultExtensionNs="com.intellij"/>
+  <actions>
+    <action id="EditorBasics.EditorIllustration" class="EditorIllustration" text="SCA Tool" description="Illustrates how to plug an action in">
+      <add-to-group group-id="EditorPopupMenu" anchor="first"/>
+    </action>
+  </actions>
+</idea-plugin>
